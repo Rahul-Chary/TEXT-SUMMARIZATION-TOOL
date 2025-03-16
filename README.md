@@ -64,3 +64,11 @@ conda install -c anaconda beautifulsoup4
 For other environments >
 
 pip3 install beautifulsoup4`
+
+#OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/33889edc-e6a2-4928-8ce6-79f9d68ca653)
+
+[Wiki-Artificial-Intelligence-Summary.txt](https://github.com/user-attachments/files/19270746/Wiki-Artificial-Intelligence-Summary.txt)
+
+![Image](https://github.com/user-attachments/assets/8195f3f1-8d58-4a81-b835-deb1402126a5)
